@@ -14,7 +14,7 @@ app.get("/", (req, res) => {
 // About route
 app.get("/about", (req, res) => {
   res.status(200).json({
-    name: "ANKAM CHARAN",
+    name: "PRANAV BOMMISHETTY",
     section: "223 2A"
   });
 });

@@ -1,6 +1,6 @@
 # Lab 1: Node.js and Express Server
 
-**Deployment URL:** (https://backend-labs-aurora.onrender.com/)
+**Deployment URL:** (https://backendpranavbommishetty.onrender.com/)
 
 ---
 
@@ -8,8 +8,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | ANKAM CHARAN |
-| **Registration Number** | 252U1R1013 |
+| **Name** | PRANAV BOMMISHETTY |
+| **Registration Number** | 252U1R1043 |
 | **Section** | 223 2A |
 | **Course** | Backend Development Fundamentals |
 | **Lab** | Lab 1 – Node.js and Express Server |
@@ -89,7 +89,7 @@ The `package-lock.json` file records the exact dependency versions used for inst
 1. Clone the GitHub repository:
 
 ```bash
-git clone https://github.com/Invy4/backend_labs_AURORA.git
+git clone https://github.com/nani187006/backendpranavbommishetty
 ```
 
 2. Navigate to the Lab 1 folder:
