@@ -8,8 +8,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | ANKAM CHARAN |
-| **Registration Number** | 252U1R1013 |
+| **Name** | PRANAV BOMMISHETTY |
+| **Registration Number** | 252U1R1043 |
 | **Section** | 223 2A |
 | **Course** | Backend Development Fundamentals |
 | **Lab** | Lab 1 – Node.js and Express Server |
